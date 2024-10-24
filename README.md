@@ -1,0 +1,1 @@
+This application is a simple 3-tier rule engine system designed to determine user eligibility based on attributes such as age, department, income, spend, etc. The system allows dynamic rule creation, combination, and modification using an Abstract Syntax Tree (AST) representation.
